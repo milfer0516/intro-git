@@ -6,5 +6,5 @@ Introduction to web development with java and Spring Boot, Html, Css, Js
 
 # Topics
 
--Introduction to Scrum
--Introduction to Git
+- Introduction to Scrum
+- Introduction to Git
