@@ -18,5 +18,6 @@ Introduction to web development with java and Spring Boot, Html, Css, Js
 - <strong>git branch<strong> {para visualizar las ramas que del proyecto}
 - <strong>git log<strong> {para visualizar llos commits de nuestro proyecto}
 - <strong>git checkout nombre => rama<strong> {para cambiar de rama}
-- <strong><strong>
+- <strong>git merge nombre-rama<strong> {Sirve para unir dos ramas}
+- <strong>git branch -d <strong>
 - <strong><strong>
